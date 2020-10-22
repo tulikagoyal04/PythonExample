@@ -1,1 +1,2 @@
 This is a file to see the sample changes in parent repository.
+A new change from opening file in windows notepad.
